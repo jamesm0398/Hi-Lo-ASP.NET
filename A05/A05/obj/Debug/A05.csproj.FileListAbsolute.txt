@@ -1,0 +1,14 @@
+C:\Users\james\Desktop\Year 2 - Sem 1\A05\A05\bin\A05.dll.config
+C:\Users\james\Desktop\Year 2 - Sem 1\A05\A05\bin\A05.dll
+C:\Users\james\Desktop\Year 2 - Sem 1\A05\A05\bin\A05.pdb
+C:\Users\james\Desktop\Year 2 - Sem 1\A05\A05\obj\Debug\A05.csprojAssemblyReference.cache
+C:\Users\james\Desktop\Year 2 - Sem 1\A05\A05\obj\Debug\A05.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\Year 2 - Sem 1\A05\A05\obj\Debug\A05.dll
+C:\Users\james\Desktop\Year 2 - Sem 1\A05\A05\obj\Debug\A05.pdb
+C:\Users\jmilne8346\Downloads\A05\A05\A05\bin\A05.dll.config
+C:\Users\jmilne8346\Downloads\A05\A05\A05\bin\A05.dll
+C:\Users\jmilne8346\Downloads\A05\A05\A05\bin\A05.pdb
+C:\Users\jmilne8346\Downloads\A05\A05\A05\obj\Debug\A05.csprojAssemblyReference.cache
+C:\Users\jmilne8346\Downloads\A05\A05\A05\obj\Debug\A05.csproj.CoreCompileInputs.cache
+C:\Users\jmilne8346\Downloads\A05\A05\A05\obj\Debug\A05.dll
+C:\Users\jmilne8346\Downloads\A05\A05\A05\obj\Debug\A05.pdb

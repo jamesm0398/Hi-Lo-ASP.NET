@@ -1,0 +1,43 @@
+﻿
+
+.page
+{
+    background-image:linear-gradient(to bottom right, white, blue);
+    height: 100vh;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+    font-family: calibri;
+    font-size: 36pt;
+    border-style: double;
+}
+
+
+.main {
+    text-align: left;
+    color: black;
+    font-family: calibri;
+    font-size: large;
+}
+
+.main2 {
+    text-align: center;
+    color: black;
+    font-family: calibri;
+    font-size: 32pt;
+    font-weight: 500;
+}
+
+.main3 {
+    text-align: center;
+    color: black;
+    font-family: calibri;
+    font-size: 16pt;
+   
+}
+
+.main4{
+    align-content: center;
+}
